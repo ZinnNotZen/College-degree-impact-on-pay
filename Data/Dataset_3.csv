@@ -1,0 +1,445 @@
+Title,Salary,Education
+,,
+Business Intelligence Analyst,81718,B
+,,
+Business Intelligence Analyst,59179,B
+,,
+Business Intelligence Developer,109032,B
+,,
+Business Intelligence Developer,101337,B
+,,
+Business Intelligence Developer,109743,B
+,,
+Business Intelligence Developer,120063,B
+,,
+Business Intelligence Developer,106446,B
+,,
+Business Intelligence Developer,90443,B
+,,
+CIO,397480,M
+,,
+CISO,245220,B
+,,
+Coding Integrity Specialist,62434,B
+,,
+Coding Integrity Specialist,80166,H
+,,
+Coding Integrity Specialist,85564,B
+,,
+CTO,234576,B
+,,
+Data Engineer Sr,126062,B
+,,
+Data Engineer Sr,94189,B
+,,
+Data Engineer Sr,93079,B
+,,
+Data Scientist,106934,B
+,,
+Database Administrator,127595,B
+,,
+Database Administrator II,117113,B
+,,
+Dir Clinical Applications,217172,M
+,,
+Dir EHR Applications,228511,M
+,,
+Dir EHR Integrations,211092,B
+,,
+Dir EHR Training,240150,B
+,,
+Dir Enterprise Applications,202751,M
+,,
+Dir GRC,197226,M
+,,
+Dir Infrastructure,222932,B
+,,
+Dir IT EPIC Solutions,240231,M
+,,
+Dir IT Project Management,201021,M
+,,
+Dir IT Revenue Cycle,219361,B
+,,
+Dir IT Support Services,224129,M
+,,
+Dir Network Operations,224890,B
+,,
+Dir Security Engineering,231560,M
+,,
+Dir Security Operations,207480,B
+,,
+EHR Application Analyst,72975,B
+,,
+EHR Application Analyst,85694,B
+,,
+EHR Application Analyst,87089,B
+,,
+EHR Application Analyst,68531,H
+,,
+EHR Application Analyst,73168,H
+,,
+EHR Application Analyst,72222,H
+,,
+EHR Application Analyst,72563,H
+,,
+EHR Application Analyst,64465,B
+,,
+EHR Application Analyst,82684,B
+,,
+EHR Application Analyst,77745,B
+,,
+EHR Application Analyst,84552,B
+,,
+EHR Application Analyst,84927,B
+,,
+EHR Application Analyst,82102,B
+,,
+EHR Application Analyst,64347,H
+,,
+EHR Application Analyst,58977,H
+,,
+EHR Application Analyst,68794,H
+,,
+EHR Application Analyst,78833,H
+,,
+EHR Application Analyst,86150,H
+,,
+EHR Application Analyst,65550,H
+,,
+EHR Application Analyst,84977,B
+,,
+EHR Application Analyst,77998,B
+,,
+EHR Application Analyst,78186,B
+,,
+EHR Application Analyst,61589,B
+,,
+EHR Application Analyst,69398,B
+,,
+EHR Application Analyst,72881,B
+,,
+EHR Application Analyst,64708,B
+,,
+EHR Application Analyst,76241,B
+,,
+EHR Application Analyst,67430,B
+,,
+EHR Application Analyst,59672,B
+,,
+EHR Application Analyst,75130,B
+,,
+EHR Application Analyst,70588,B
+,,
+EHR Application Analyst,59570,H
+,,
+EHR Application Analyst,58622,H
+,,
+EHR Application Analyst,84755,H
+,,
+EHR Application Analyst,75486,H
+,,
+EHR Application Analyst,67299,H
+,,
+EHR Application Analyst,85694,H
+,,
+EHR Application Analyst,67284,H
+,,
+EHR Application Analyst,72145,H
+,,
+EHR Application Analyst,64379,H
+,,
+EHR Application Analyst,78127,H
+,,
+EHR Application Analyst,79664,H
+,,
+EHR Application Security Analyst,64141,B
+,,
+EHR Application Security Analyst,61772,B
+,,
+EHR Application Security Analyst,60519,B
+,,
+EHR Application Security Analyst,74640,H
+,,
+EHR Application Security Analyst,72293,H
+,,
+EHR Trainer,73028,H
+,,
+Enterprise Network Architect,156053,M
+,,
+Enterprise Network Architect,140155,B
+,,
+EPIC Principal Trainer,74579,H
+,,
+EPIC Principal Trainer,74199,B
+,,
+EPIC Principal Trainer,85438,B
+,,
+EPIC Principal Trainer,69090,B
+,,
+EPIC Principal Trainer,78853,B
+,,
+EPIC Principal Trainer,72100,B
+,,
+EPIC Principal Trainer,60692,H
+,,
+EPIC Principal Trainer,69228,H
+,,
+EPIC Principal Trainer,76920,H
+,,
+IAM Analyst,66941,H
+,,
+IAM Analyst,65521,M
+,,
+IAM Engineer,128462,B
+,,
+IT Project Coord,77989,H
+,,
+IT Project Mgr,113341,H
+,,
+IT Project Mgr,97988,H
+,,
+IT Project Mgr,108266,H
+,,
+IT Project Mgr,99141,B
+,,
+IT Project Mgr,86174,B
+,,
+IT Security Analyst,65906,B
+,,
+IT Security Analyst,66452,H
+,,
+IT Security Architect,128021,B
+,,
+IT Security Awareness Analyst,81912,H
+,,
+IT Security Engineer,88056,B
+,,
+IT Security Engineer,92392,B
+,,
+IT Security GRC Principal,127704,M
+,,
+IT Security GRC Specialist,107404,B
+,,
+IT Security Senior Analyst,126121,H
+,,
+IT Senior Security Engineer,105397,M
+,,
+IT Service Manager,122477,H
+,,
+IT Service Manager,88926,B
+,,
+IT Systems Business Analyst,82702,B
+,,
+IT Systems Business Analyst,87403,B
+,,
+IT Systems Business Analyst,86240,B
+,,
+IT Systems Business Analyst,65264,H
+,,
+IT Systems Functional Analyst,61849,B
+,,
+IT Systems Functional Analyst,72782,B
+,,
+Manager IAM,178540,B
+,,
+Mgr EHR Applications,114234,B
+,,
+Mgr EHR Applications,154933,B
+,,
+Mgr EHR Applications,113846,B
+,,
+Mgr EHR Applications,138606,B
+,,
+Mgr EHR Applications,113543,B
+,,
+Mgr EHR Revenue Cycle,117792,B
+,,
+Mgr EHR Revenue Cycle,154773,B
+,,
+Mgr Service Desk,146745,B
+,,
+Mgr System Administration,104492,B
+,,
+Network Engineer,107782,B
+,,
+Network Engineer,99126,B
+,,
+Network Engineer,90985,B
+,,
+Network Engineer,91504,B
+,,
+Network Operations Analyst,74635,H
+,,
+Network Operations Analyst,83604,B
+,,
+Network Operations Analyst,84435,H
+,,
+Program Manager,96786,B
+,,
+Program Manager EPIC,114090,M
+,,
+Project Tech Analyst,77956,H
+,,
+Project Tech Analyst,63982,H
+,,
+Service Desk Analyst,75048,B
+,,
+Service Desk Analyst,58686,H
+,,
+Service Desk Analyst,66849,H
+,,
+Service Desk Analyst,70732,H
+,,
+Service Desk Analyst,62690,B
+,,
+Service Desk Analyst,86116,H
+,,
+Service Desk Analyst,85889,H
+,,
+Service Desk Analyst,78797,H
+,,
+Service Desk Analyst,78404,H
+,,
+Service Desk Analyst,65820,B
+,,
+Service Desk Analyst II,121751,B
+,,
+Service Desk Analyst II,89148,B
+,,
+Service Desk Analyst II,89010,H
+,,
+Service Desk Senior,95276,B
+,,
+Service Desk Senior,97580,B
+,,
+ServiceNow Architect,166915,B
+,,
+ServiceNow Developer,135340,B
+,,
+Sr Clinical Analyst,152133,M
+,,
+Sr Developer,141085,M
+,,
+Sr IT Project Mgr,109755,H
+,,
+Sr IT Project Mgr,130188,B
+,,
+Sr IT Project Mgr,137020,B
+,,
+Sr IT Project Mgr,124125,B
+,,
+Sr IT Project Mgr,135526,B
+,,
+Sr IT Project Mgr,131153,B
+,,
+Sr IT Project Mgr,104072,B
+,,
+Sr IT Project Mgr,135198,M
+,,
+Sr Mgr Clinical Intelligence,152859,M
+,,
+Sr Mgr End User Experience,125850,B
+,,
+Sr Network Engineer,118881,B
+,,
+Sr Tech Analyst,109733,B
+,,
+Sr Tech Analyst,92337,H
+,,
+Sr Tech Analyst,104263,B
+,,
+Supv End User Support,109114,B
+,,
+Supv Service Desk,115283,B
+,,
+System Administrator,111845,H
+,,
+System Administrator,126193,B
+,,
+Systems Engineer,128321,B
+,,
+Systems Engineer,108341,B
+,,
+Systems Engineer,128527,B
+,,
+Systems Engineer,94348,B
+,,
+Systems Engineer,117920,B
+,,
+Systems Engineer,113183,B
+,,
+Systems Engineer,97711,B
+,,
+Systems Engineer,86422,B
+,,
+Systems Engineer,121484,B
+,,
+Systems Engineer,126452,B
+,,
+Systems Engineer,123772,B
+,,
+Systems Engineer Sr,152183,B
+,,
+Systems Engineer Sr,137109,B
+,,
+Systems Engineer Sr,130131,B
+,,
+Systems Engineer Sr,126815,B
+,,
+Tech Analyst,69999,H
+,,
+Tech Analyst,59353,H
+,,
+Tech Analyst,72400,H
+,,
+Tech Analyst,70693,H
+,,
+Tech Analyst,65120,H
+,,
+Tech Analyst,62992,B
+,,
+Tech Analyst,81564,B
+,,
+Tech Analyst,80881,B
+,,
+Tech Analyst,72048,H
+,,
+Tech Analyst,69398,H
+,,
+Tech Analyst,68952,H
+,,
+Tech Analyst,81737,H
+,,
+Tech Analyst,81991,H
+,,
+Tech Analyst,72236,H
+,,
+Tech Analyst,66742,B
+,,
+Tech Analyst,68840,H
+,,
+Tech Analyst,75516,H
+,,
+Tech Analyst II,119463,H
+,,
+Tech Analyst II,120134,H
+,,
+Tech Analyst II,119610,H
+,,
+Tech Analyst II,107398,H
+,,
+Tech Analyst II,116903,H
+,,
+Tech Analyst II,119710,B
+,,
+Tech Analyst II,87363,H
+,,
+VDI Engineer,88545,B
+,,
+VDI Engineer,117926,B
+,,
+VDI Engineer,102884,B
+,,
+VDI Engineer,107174,B
+,,
+Workday Sr Integration Dev,158879,B
